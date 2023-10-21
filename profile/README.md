@@ -45,5 +45,5 @@ Each of our projects comes with its own detailed `README` on how to use and cont
 
 ---
 
-![Hanabi Logo](https://strapi.hanabitech.com/uploads/hanabi_logo_95a149e4e9.png)
+![Hanabi Logo](https://strapi.hanabitech.com/uploads/hanabi_logo_with_white_bg_c8e26ba2e0.jpg)
 🎆 **Hanabi Technologies** - Empowering innovation with code excellence.
