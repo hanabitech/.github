@@ -1,6 +1,6 @@
 # Hanabi Technologies 🎆
 
-![Hanabi Banner Image](https://strapi.hanabitech.com/uploads/Custom_Software_Solutions_9bac7cdd25.webp)  <!-- Consider using a captivating banner image that represents Hanabi -->
+![Hanabi Banner Image](https://storage.googleapis.com/hanabi-cms/uploads/Custom_Software_Solutions_9bac7cdd25.webp)  <!-- Consider using a captivating banner image that represents Hanabi -->
 
 Welcome to the official GitHub repository of **Hanabi Technologies**!
 
@@ -45,5 +45,5 @@ Each of our projects comes with its own detailed `README` on how to use and cont
 
 ---
 
-![Hanabi Logo](https://strapi.hanabitech.com/uploads/hanabi_logo_with_white_bg_c8e26ba2e0.jpg)
+![Hanabi Logo](https://storage.googleapis.com/hanabi-cms/uploads/hanabi_logo_with_white_bg_c8e26ba2e0.jpg)
 🎆 **Hanabi Technologies** - Empowering innovation with code excellence.
