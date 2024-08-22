@@ -19,7 +19,7 @@ Hanabi Technologies is at the forefront of cutting-edge software development. Ou
 
 This is the hub where we showcase and maintain some of our open-source contributions and internal projects. Here are a few highlights:
 
-- [Hana - Google Chat AI Teammate](https://hana.hanabitech.com) - We are creating a custom data driven, OpenAI GPT powered chatbot for a wide range of applications
+- [Hana - Google Chat AI Teammate](https://hana.hanabitech.com/?utm_source=github&utm_medium=referral) - We are creating a custom data driven, OpenAI GPT powered chatbot for a wide range of applications
 - Canvas-Like Desktop Editor Compatible Upto WIndows 7 - It has high backward compatibility, is cross platform, is a native desktop app with complex UI canvas interactions.
 - ...and many more!
 
@@ -39,7 +39,7 @@ Each of our projects comes with its own detailed `README` on how to use and cont
 
 ## Connect with Us
 
-- 🌍 **Website**: [Hanabi Technologies](https://hanabitech.com)
+- 🌍 **Website**: [Hanabi Technologies](https://hanabitech.com/?utm_source=github&utm_medium=referral)
 - 🐦 **Goodfirms**: [Hanabi Technologies](https://www.goodfirms.co/company/hanabi-technologies)
 - 💼 **LinkedIn**: [Hanabi-Technologies](https://linkedin.com/company/hanabi-technologies)
 
